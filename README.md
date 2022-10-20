@@ -2,6 +2,10 @@
 Efficient neutrient file technique hydroponic system with particle photon and ultrasonic sensor
 
 ## Roadmap
+In traditional system the neutrient pump needs to be ON all the time so that the neutrient keeps flowing, because of this the pump burns out soon and needs to be replaced.
+In the new particle photon based system the neutrient is pulled down by gravity and then once the upper reserviour is empty then only the neutrient pump starts which saves electricity and also the neutrient pump lasts longer as it is ON only for some time.
+
+## Roadmap
 | No | Feature      | status |
 |----|---------------------------|---|
 | 2. | concept & illustrative images | ✅ |
