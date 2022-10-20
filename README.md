@@ -8,8 +8,8 @@ Efficient neutrient file technique hydroponic system with particle photon and ul
 ## Roadmap
 | No | Feature      | status |
 |----|---------------------------|---|
-| 2. | concept & illustrative images | ✅ |
-| 1. | electronic component connections & photon sketch      | ✅ |
+| 1. | concept & illustrative images | ✅ |
+| 2. | electronic component connections & photon sketch      | ✅ |
 | 3. | first stable release             | ✅ |
 | 4. | pin diagram and project tutorial          | 🚧 |
 
