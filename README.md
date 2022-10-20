@@ -1,5 +1,5 @@
 # Particle photon - hydroponic nft system
-Efficient hydroponic neutrient file technique with particle photon and ultrasonic sensor
+Efficient neutrient file technique hydroponic system with particle photon and ultrasonic sensor
 
 ## Traditional nft hydroponic system
 <img src="traditional_hydroponic_nft.jpg" width="30%"/>
