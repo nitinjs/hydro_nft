@@ -1,7 +1,7 @@
 # Particle photon - hydroponic nft system
 Efficient neutrient file technique hydroponic system with particle photon and ultrasonic sensor
 
-## Roadmap:
+## Roadmap
 | No | Feature      | status |
 |----|---------------------------|---|
 | 2. | concept & illustrative images | ✅ |
