@@ -1,4 +1,4 @@
-# Particle photon - hydroponic nft system
+# Particle photon IoT - hydroponic nft system
 Efficient neutrient file technique hydroponic system with particle photon and ultrasonic sensor
 
 ## Roadmap
