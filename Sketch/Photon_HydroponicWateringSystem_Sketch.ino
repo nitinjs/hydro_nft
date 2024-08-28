@@ -4,12 +4,12 @@
 //by Nitin Sawant
 //nitin@nitinsawant.com
 
-int r1 = D0;//relay
+int r1 = D0;//relay - for water pump switch on/off
 
-int t1 = D1;//trigger ss1
-int e1 = D2;//echo ss1
-int t2 = D3;//trigger ss2
-int e2 = D4;//echo ss2
+int t1 = D1;//trigger ss1 - ultrasonic sensor1
+int e1 = D2;//echo ss1 - ultrasonic sensor1
+int t2 = D3;//trigger ss2 - ultrasonic sensor2
+int e2 = D4;//echo ss2 - ultrasonic sensor2
 
 float distance1, distance2;
 float upper_level,lower_level;
